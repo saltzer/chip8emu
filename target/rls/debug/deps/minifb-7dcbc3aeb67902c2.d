@@ -1,0 +1,14 @@
+/home/user/Documents/Projects/rust_projects/chip8emu/target/rls/debug/deps/minifb-7dcbc3aeb67902c2.rmeta: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/error.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/key.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/os/mod.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/os/unix/mod.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/os/unix/key_mapping.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/mouse_handler.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/buffer_helper.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/key_handler.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/window_flags.rs
+
+/home/user/Documents/Projects/rust_projects/chip8emu/target/rls/debug/deps/minifb-7dcbc3aeb67902c2.d: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/error.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/key.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/os/mod.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/os/unix/mod.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/os/unix/key_mapping.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/mouse_handler.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/buffer_helper.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/key_handler.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/window_flags.rs
+
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/lib.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/error.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/key.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/os/mod.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/os/unix/mod.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/os/unix/key_mapping.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/mouse_handler.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/buffer_helper.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/key_handler.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/minifb-0.13.0/src/window_flags.rs:
